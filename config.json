@@ -20,5 +20,44 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "서울 대학교 교육 협력관-시흥 스마트 캠퍼스": {
+      "style": "tan",
+      "wall": "#cbbca4",
+      "glass": "#46627a",
+      "frame": "#b5a68e"
+    },
+    "서울대학교 시흥캠퍼스 미래모빌리티연구동": {
+      "style": "glass",
+      "wall": "#e3e6e8",
+      "glass": "#5f7f88",
+      "frame": "#a1b3b4"
+    },
+    "102 서울대학교 시흥캠퍼스 교직원숙소": {
+      "style": "dorm",
+      "wall": "#e8eaea",
+      "glass": "#55646c",
+      "frame": "#b9c0c2"
+    },
+    "101 서울 대학교 시흥 학생 생활관": {
+      "style": "dorm",
+      "wall": "#e8eaea",
+      "glass": "#55646c",
+      "frame": "#b9c0c2"
+    },
+    "104 서울 대학교 시흥 학생 생활관": {
+      "style": "dorm",
+      "wall": "#e8eaea",
+      "glass": "#55646c",
+      "frame": "#b9c0c2"
+    },
+    "103 서울 대학교 시흥 학생 생활관": {
+      "style": "dorm",
+      "wall": "#e8eaea",
+      "glass": "#55646c",
+      "frame": "#b9c0c2"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
